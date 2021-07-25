@@ -1,0 +1,4 @@
+adafruit_pypixelbuf==None
+neopixel==None
+adafruit_hid==None
+adafruit_logging=None
